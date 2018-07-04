@@ -1,0 +1,8002 @@
+[
+  {
+    "x": 26,
+    "y": 21,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 10,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 3,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 7,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 10,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 15,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 17,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 9,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 19,
+        "y": 8,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 1,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 17,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 17,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 21,
+        "y": 15,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 5,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 2,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 4,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 1,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 18,
+        "y": 15,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 0,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 4,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 17,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 16,
+        "y": 19,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 2,
+        "y": 2,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 25,
+    "y": 21,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 13,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 23,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 21,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 14,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 12,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 16,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 19,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 9,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 14,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 8,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 19,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 12,
+        "y": 15,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 8,
+        "y": 10,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 2,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 1,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 6,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 9,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 2,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 23,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 20,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 0,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 4,
+        "y": 1,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 15,
+    "y": 32,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 10,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 2,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 0,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 6,
+        "y": 13,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 6,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 0,
+        "y": 20,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 2,
+        "y": 3,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 6,
+        "y": 22,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 3,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 8,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 10,
+        "y": 19,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 12,
+        "y": 13,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 8,
+        "y": 19,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 3,
+        "y": 28,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 4,
+        "y": 23,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 12,
+        "y": 18,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 1,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 14,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 3,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 11,
+        "y": 27,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 2,
+        "y": 15,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 12,
+        "y": 2,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 19,
+    "y": 27,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 16,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 8,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 12,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 14,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 3,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 4,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 9,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 18,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 8,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 10,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 4,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 9,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 6,
+        "y": 21,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 7,
+        "y": 16,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 0,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 1,
+        "y": 24,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 5,
+        "y": 22,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 11,
+        "y": 16,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 3,
+        "y": 19,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 13,
+        "y": 19,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 1,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 1,
+        "y": 2,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 23,
+    "y": 22,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 11,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 17,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 11,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 13,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 21,
+        "y": 8,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 3,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 4,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 9,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 11,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 19,
+        "y": 15,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 16,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 19,
+        "y": 19,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 11,
+        "y": 3,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 11,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 3,
+        "y": 20,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 8,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 14,
+        "y": 16,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 5,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 0,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 9,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 2,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 1,
+        "y": 4,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 30,
+    "y": 17,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 20,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 11,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 15,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 17,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 6,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 10,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 3,
+        "y": 3,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 12,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 6,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 19,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 12,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 23,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 19,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 8,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 0,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 3,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 15,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 1,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 6,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 10,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 28,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 25,
+        "y": 0,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 25,
+    "y": 20,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 6,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 8,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 16,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 2,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 4,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 1,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 13,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 19,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 12,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 2,
+        "y": 13,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 1,
+        "y": 19,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 0,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 12,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 10,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 9,
+        "y": 3,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 4,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 6,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 10,
+        "y": 19,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 2,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 4,
+        "y": 3,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 21,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 18,
+        "y": 13,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 15,
+    "y": 32,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 3,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 13,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 11,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 4,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 2,
+        "y": 19,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 8,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 7,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 4,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 2,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 5,
+        "y": 21,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 11,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 9,
+        "y": 21,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 7,
+        "y": 19,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 0,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 1,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 1,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 5,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 0,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 2,
+        "y": 19,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 1,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 1,
+        "y": 28,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 5,
+        "y": 25,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 20,
+    "y": 25,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 8,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 14,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 17,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 9,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 19,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 9,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 8,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 11,
+        "y": 16,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 8,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 11,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 9,
+        "y": 19,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 4,
+        "y": 21,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 11,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 5,
+        "y": 17,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 5,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 2,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 9,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 4,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 11,
+        "y": 23,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 3,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 9,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 0,
+        "y": 13,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 25,
+    "y": 21,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 10,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 12,
+        "y": 10,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 9,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 2,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 7,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 19,
+        "y": 8,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 21,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 12,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 0,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 14,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 2,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 14,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 11,
+        "y": 20,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 15,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 23,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 9,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 19,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 0,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 5,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 22,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 11,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 3,
+        "y": 4,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 20,
+    "y": 26,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 13,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 5,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 9,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 6,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 3,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 11,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 18,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 10,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 6,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 11,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 11,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 15,
+        "y": 18,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 2,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 0,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 15,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 11,
+        "y": 18,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 10,
+        "y": 24,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 6,
+        "y": 13,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 3,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 13,
+        "y": 22,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 0,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 1,
+        "y": 11,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 25,
+    "y": 20,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 0,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 10,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 1,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 7,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 2,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 2,
+        "y": 19,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 2,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 5,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 10,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 17,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 12,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 17,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 13,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 10,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 0,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 17,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 22,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 19,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 17,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 20,
+        "y": 3,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 23,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 16,
+        "y": 7,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 26,
+    "y": 18,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 15,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 10,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 14,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 15,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 17,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 20,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 11,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 11,
+        "y": 8,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 5,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 19,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 25,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 23,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 7,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 2,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 0,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 24,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 3,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 13,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 10,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 5,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 9,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 3,
+        "y": 0,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 21,
+    "y": 25,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 8,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 0,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 3,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 8,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 10,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 1,
+        "y": 19,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 4,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 17,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 9,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 7,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 15,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 11,
+        "y": 17,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 13,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 8,
+        "y": 23,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 16,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 1,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 6,
+        "y": 18,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 3,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 13,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 9,
+        "y": 21,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 3,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 13,
+        "y": 12,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 29,
+    "y": 18,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 9,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 15,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 9,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 11,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 0,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 6,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 0,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 19,
+        "y": 8,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 14,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 21,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 8,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 21,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 18,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 12,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 5,
+        "y": 3,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 26,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 1,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 4,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 0,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 17,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 24,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 21,
+        "y": 11,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 25,
+    "y": 21,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 8,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 6,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 10,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 12,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 4,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 16,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 3,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 12,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 19,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 4,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 17,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 2,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 14,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 21,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 2,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 5,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 18,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 0,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 16,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 19,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 22,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 18,
+        "y": 18,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 26,
+    "y": 20,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 13,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 6,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 12,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 18,
+        "y": 8,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 7,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 8,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 18,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 21,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 19,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 18,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 24,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 22,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 9,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 6,
+        "y": 10,
+        "orientation": false
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 10,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 14,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 23,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 1,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 3,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 18,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 4,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 0,
+        "y": 0,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 23,
+    "y": 20,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 5,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 15,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 12,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 6,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 1,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 1,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 21,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 10,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 8,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 2,
+        "y": 13,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 4,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 0,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 19,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 12,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 8,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 12,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 13,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 17,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 1,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 6,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 3,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 16,
+        "y": 19,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 21,
+    "y": 25,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 7,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 9,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 0,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 15,
+        "y": 10,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 4,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 1,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 10,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 0,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 17,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 2,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 3,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 0,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 9,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 9,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 12,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 12,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 11,
+        "y": 20,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 5,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 4,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 1,
+        "y": 15,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 0,
+        "y": 22,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 7,
+        "y": 18,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 20,
+    "y": 26,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 13,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 8,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 9,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 15,
+        "y": 15,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 9,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 1,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 11,
+        "y": 13,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 2,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 15,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 12,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 6,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 16,
+        "y": 10,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 4,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 8,
+        "y": 22,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 10,
+        "y": 24,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 2,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 0,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 18,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 4,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 9,
+        "y": 20,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 2,
+        "y": 16,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 10,
+        "y": 0,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 29,
+    "y": 18,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 10,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 10,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 14,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 0,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 1,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 20,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 16,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 7,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 5,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 3,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 16,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 1,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 18,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 26,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 18,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 22,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 23,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 0,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 11,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 25,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 8,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 4,
+        "y": 1,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 29,
+    "y": 18,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 13,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 15,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 6,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 11,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 6,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 23,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 2,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 13,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 13,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 0,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 23,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 4,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 0,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 12,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 2,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 25,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 2,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 9,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 17,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 22,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 27,
+        "y": 8,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 1,
+        "y": 17,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 25,
+    "y": 21,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 13,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 15,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 13,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 6,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 22,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 5,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 9,
+        "y": 13,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 7,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 0,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 1,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 9,
+        "y": 20,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 5,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 20,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 24,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 3,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 11,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 11,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 3,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 1,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 14,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 18,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 3,
+        "y": 19,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 28,
+    "y": 19,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 9,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 11,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 14,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 16,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 19,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 4,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 5,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 19,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 6,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 7,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 18,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 5,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 8,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 16,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 18,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 25,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 21,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 4,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 25,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 10,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 18,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 0,
+        "y": 9,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 27,
+    "y": 20,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 9,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 15,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 6,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 6,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 11,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 10,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 20,
+        "y": 10,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 18,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 9,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 12,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 2,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 16,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 2,
+        "y": 19,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 11,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 0,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 19,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 20,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 0,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 0,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 23,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 0,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 3,
+        "y": 11,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 27,
+    "y": 18,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 14,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 24,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 14,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 16,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 10,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 26,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 22,
+        "y": 10,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 12,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 15,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 6,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 22,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 10,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 6,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 13,
+        "y": 3,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 3,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 15,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 4,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 15,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 3,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 0,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 1,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 11,
+        "y": 1,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 26,
+    "y": 20,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 3,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 5,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 2,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 1,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 1,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 0,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 10,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 3,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 14,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 9,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 12,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 13,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 4,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 13,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 17,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 19,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 0,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 15,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 17,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 16,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 23,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 25,
+        "y": 1,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 26,
+    "y": 20,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 14,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 5,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 13,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 11,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 9,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 7,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 13,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 0,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 2,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 1,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 17,
+        "y": 8,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 5,
+        "y": 13,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 22,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 12,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 3,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 0,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 3,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 19,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 14,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 6,
+        "y": 16,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 16,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 12,
+        "y": 0,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 30,
+    "y": 16,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 18,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 10,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 14,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 18,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 5,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 8,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 24,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 11,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 20,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 22,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 18,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 26,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 16,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 9,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 6,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 22,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 28,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 11,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 0,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 4,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 1,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 16,
+        "y": 2,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 19,
+    "y": 26,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 5,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 11,
+        "y": 8,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 8,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 1,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 17,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 8,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 8,
+        "y": 18,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 1,
+        "y": 25,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 15,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 13,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 4,
+        "y": 23,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 13,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 1,
+        "y": 21,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 13,
+        "y": 16,
+        "orientation": false
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 15,
+        "y": 16,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 11,
+        "y": 3,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 4,
+        "y": 13,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 6,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 18,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 11,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 0,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 2,
+        "y": 8,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 21,
+    "y": 25,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 9,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 0,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 0,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 9,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 7,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 8,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 2,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 16,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 18,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 4,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 15,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 2,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 15,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 8,
+        "y": 20,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 6,
+        "y": 13,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 8,
+        "y": 17,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 14,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 4,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 6,
+        "y": 24,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 15,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 12,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 0,
+        "y": 14,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 33,
+    "y": 16,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 2,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 0,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 4,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 0,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 10,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 8,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 15,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 14,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 7,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 21,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 18,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 21,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 18,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 27,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 8,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 24,
+        "y": 8,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 24,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 19,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 25,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 5,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 31,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 22,
+        "y": 2,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 26,
+    "y": 20,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 9,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 19,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 9,
+        "y": 8,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 15,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 0,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 14,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 3,
+        "y": 8,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 13,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 5,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 15,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 2,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 15,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 13,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 21,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 11,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 2,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 11,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 1,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 0,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 6,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 6,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 18,
+        "y": 19,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 17,
+    "y": 29,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 11,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 2,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 2,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 2,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 0,
+        "y": 20,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 6,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 4,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 2,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 7,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 4,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 3,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 2,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 9,
+        "y": 18,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 2,
+        "y": 27,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 6,
+        "y": 19,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 4,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 11,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 2,
+        "y": 3,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 0,
+        "y": 20,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 4,
+        "y": 24,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 15,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 16,
+        "y": 9,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 23,
+    "y": 21,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 4,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 6,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 13,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 9,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 15,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 1,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 0,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 15,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 9,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 18,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 7,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 18,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 9,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 1,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 22,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 15,
+        "y": 13,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 5,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 0,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 18,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 2,
+        "y": 16,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 11,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 0,
+        "y": 11,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 24,
+    "y": 21,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 12,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 14,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 5,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 19,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 22,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 6,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 15,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 8,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 6,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 0,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 6,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 4,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 2,
+        "y": 10,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 17,
+        "y": 10,
+        "orientation": false
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 1,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 1,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 7,
+        "y": 15,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 12,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 1,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 6,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 14,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 10,
+        "y": 6,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 34,
+    "y": 15,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 27,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 23,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 17,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 29,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 17,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 9,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 21,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 13,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 24,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 33,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 17,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 31,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 11,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 9,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 10,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 15,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 28,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 0,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 10,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 9,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 1,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 4,
+        "y": 2,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 20,
+    "y": 27,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 1,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 11,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 4,
+        "y": 16,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 5,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 3,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 2,
+        "y": 15,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 9,
+        "y": 16,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 8,
+        "y": 19,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 14,
+        "y": 18,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 13,
+        "y": 22,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 19,
+        "y": 21,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 17,
+        "y": 22,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 7,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 0,
+        "y": 25,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 8,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 16,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 15,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 0,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 5,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 14,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 0,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 12,
+        "y": 3,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 22,
+    "y": 22,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 7,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 9,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 16,
+        "y": 8,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 0,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 12,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 1,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 4,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 4,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 3,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 18,
+        "y": 10,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 14,
+        "y": 10,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 18,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 4,
+        "y": 3,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 1,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 12,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 14,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 19,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 2,
+        "y": 21,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 2,
+        "y": 19,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 9,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 1,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 6,
+        "y": 10,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 24,
+    "y": 21,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 17,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 8,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 10,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 13,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 19,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 15,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 15,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 16,
+        "y": 20,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 20,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 11,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 6,
+        "y": 19,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 11,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 5,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 6,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 7,
+        "y": 3,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 8,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 8,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 22,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 7,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 5,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 0,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 4,
+        "y": 13,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 20,
+    "y": 24,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 2,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 8,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 13,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 6,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 6,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 11,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 12,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 10,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 7,
+        "y": 16,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 2,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 6,
+        "y": 22,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 6,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 15,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 17,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 0,
+        "y": 19,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 3,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 5,
+        "y": 10,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 1,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 19,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 5,
+        "y": 18,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 16,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 18,
+        "y": 11,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 21,
+    "y": 26,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 10,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 3,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 7,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 7,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 3,
+        "y": 16,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 9,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 12,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 5,
+        "y": 16,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 17,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 16,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 7,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 16,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 11,
+        "y": 15,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 0,
+        "y": 21,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 0,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 15,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 1,
+        "y": 18,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 1,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 10,
+        "y": 23,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 8,
+        "y": 19,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 1,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 14,
+        "y": 4,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 25,
+    "y": 20,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 8,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 14,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 9,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 16,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 14,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 22,
+        "y": 8,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 8,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 20,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 19,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 18,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 7,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 22,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 24,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 0,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 7,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 5,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 10,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 4,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 15,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 5,
+        "y": 15,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 6,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 2,
+        "y": 0,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 32,
+    "y": 17,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 23,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 15,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 19,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 15,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 10,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 9,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 22,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 20,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 25,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 29,
+        "y": 10,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 13,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 29,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 21,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 4,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 8,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 4,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 29,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 0,
+        "y": 3,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 27,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 13,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 5,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 1,
+        "y": 14,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 21,
+    "y": 24,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 10,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 5,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 9,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 5,
+        "y": 10,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 15,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 18,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 11,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 13,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 4,
+        "y": 19,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 17,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 15,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 17,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 7,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 20,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 0,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 12,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 0,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 3,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 8,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 5,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 1,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 7,
+        "y": 4,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 28,
+    "y": 18,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 0,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 10,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 1,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 0,
+        "y": 3,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 6,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 12,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 6,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 7,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 14,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 3,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 5,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 1,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 0,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 13,
+        "y": 6,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 22,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 20,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 14,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 1,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 27,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 24,
+        "y": 13,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 18,
+        "y": 8,
+        "orientation": false
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 17,
+        "y": 0,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 20,
+    "y": 24,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 7,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 5,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 0,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 14,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 9,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 9,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 11,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 3,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 11,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 13,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 12,
+        "y": 17,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 17,
+        "y": 8,
+        "orientation": false
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 4,
+        "y": 13,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 2,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 16,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 0,
+        "y": 13,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 11,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 19,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 9,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 15,
+        "y": 19,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 1,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 8,
+        "y": 21,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 25,
+    "y": 22,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 8,
+        "y": 14,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 18,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 8,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 11,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 14,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 1,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 21,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 23,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 5,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 11,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 19,
+        "y": 14,
+        "orientation": false
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 9,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 14,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 6,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 13,
+        "y": 5,
+        "orientation": true
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 10,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 20,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 3,
+        "y": 10,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 10,
+        "y": 19,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 19,
+        "y": 3,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 9,
+        "y": 21,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 0,
+        "y": 5,
+        "orientation": true
+      }
+    ]
+  },
+  {
+    "x": 22,
+    "y": 23,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 4,
+        "y": 12,
+        "orientation": true
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 10,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 14,
+        "y": 3,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 5,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 2,
+        "y": 10,
+        "orientation": true
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 2,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 5,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 5,
+        "y": 21,
+        "orientation": true
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 7,
+        "y": 15,
+        "orientation": false
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 12,
+        "y": 11,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 0,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 12,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 11,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 12,
+        "y": 8,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 16,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 7,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 0,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 0,
+        "y": 2,
+        "orientation": false
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 16,
+        "y": 13,
+        "orientation": false
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 20,
+        "y": 7,
+        "orientation": false
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 11,
+        "y": 1,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 19,
+        "y": 13,
+        "orientation": false
+      }
+    ]
+  },
+  {
+    "x": 24,
+    "y": 21,
+    "words": [
+      {
+        "word": "MANUFACTURER",
+        "question": "manufacturer",
+        "x": 9,
+        "y": 1,
+        "orientation": false
+      },
+      {
+        "word": "CONVENIENCE",
+        "question": "convenience",
+        "x": 0,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "SUPERMARKET",
+        "question": "supermarket",
+        "x": 7,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "ACQUISITION",
+        "question": "acquisition",
+        "x": 9,
+        "y": 2,
+        "orientation": true
+      },
+      {
+        "word": "WHOLESALER",
+        "question": "wholesaler",
+        "x": 18,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "GUARANTEE",
+        "question": "guarantee",
+        "x": 4,
+        "y": 0,
+        "orientation": false
+      },
+      {
+        "word": "SUPPLIER",
+        "question": "supplier",
+        "x": 14,
+        "y": 7,
+        "orientation": true
+      },
+      {
+        "word": "OPERATOR",
+        "question": "operator",
+        "x": 16,
+        "y": 6,
+        "orientation": false
+      },
+      {
+        "word": "CONSUMER",
+        "question": "consumer",
+        "x": 12,
+        "y": 4,
+        "orientation": true
+      },
+      {
+        "word": "DURABLE",
+        "question": "durable",
+        "x": 21,
+        "y": 5,
+        "orientation": false
+      },
+      {
+        "word": "RETAIL",
+        "question": "retail",
+        "x": 14,
+        "y": 11,
+        "orientation": true
+      },
+      {
+        "word": "B2B",
+        "question": "b2b",
+        "x": 21,
+        "y": 9,
+        "orientation": true
+      },
+      {
+        "word": "SERENDIPITY",
+        "question": "serendipity",
+        "x": 14,
+        "y": 9,
+        "orientation": false
+      },
+      {
+        "word": "COMPETITOR",
+        "question": "competitor",
+        "x": 8,
+        "y": 15,
+        "orientation": true
+      },
+      {
+        "word": "WAREHOUSE",
+        "question": "warehouse",
+        "x": 12,
+        "y": 12,
+        "orientation": false
+      },
+      {
+        "word": "DISCOUNT",
+        "question": "discount",
+        "x": 7,
+        "y": 18,
+        "orientation": true
+      },
+      {
+        "word": "UNIONS",
+        "question": "unions",
+        "x": 1,
+        "y": 4,
+        "orientation": false
+      },
+      {
+        "word": "MARKETPLACE",
+        "question": "marketplace",
+        "x": 2,
+        "y": 20,
+        "orientation": true
+      },
+      {
+        "word": "WITHDRAW",
+        "question": "withdraw",
+        "x": 11,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "GOOD",
+        "question": "good",
+        "x": 4,
+        "y": 0,
+        "orientation": true
+      },
+      {
+        "word": "INNOVATION",
+        "question": "innovation",
+        "x": 14,
+        "y": 17,
+        "orientation": true
+      },
+      {
+        "word": "SERVICE",
+        "question": "service",
+        "x": 1,
+        "y": 13,
+        "orientation": true
+      }
+    ]
+  }
+]

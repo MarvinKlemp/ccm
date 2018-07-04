@@ -1,0 +1,56 @@
+.unused {
+    background-color: grey;
+}
+
+.letter {
+    padding: 0;
+    margin: 0;
+}
+
+.letter-tile {
+    background-color: white;
+    border: solid 1px;
+}
+
+.tile {
+    width: 30px;
+    height: 30px;
+    margin-left: 2px;
+}
+
+.tile-row {
+    margin: 0;
+}
+
+.word-id {
+    position: absolute;
+    left: 2px;
+    top: 2px;
+    font-size: xx-small;
+}
+
+.orientation-horizontal {
+    width: 0;
+    height: 0;
+
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+    border-left: 3px solid black;
+}
+
+.orientation-vertical {
+    width: 0;
+    height: 0;
+
+    border-left: 2px solid transparent;
+    border-right: 2px solid transparent;
+    border-top: 3px solid black;
+}
+
+td{
+    position:relative;
+}
+
+#questions > span {
+    display: block;
+}

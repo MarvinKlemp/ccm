@@ -1,0 +1,53 @@
+.margin-bot {
+    margin-bottom: 8px;
+}
+
+.segment {
+    border-bottom: 0.3em solid #009ee0;
+}
+
+.btn-hbrs {
+    color: #ffffff;
+    background-color: #009EE0;
+    border-color: #009EE0;
+}
+
+.btn-hbrs:hover,
+.btn-hbrs:focus,
+.btn-hbrs:active,
+.btn-hbrs.active,
+.open .dropdown-toggle.btn-hbrs {
+    color: #ffffff;
+    background-color: #009EE0;
+    border-color: #009EE0;
+}
+
+.btn-hbrs:active,
+.btn-hbrs.active,
+.open .dropdown-toggle.btn-hbrs {
+    background-image: none;
+}
+
+.btn-hbrs.disabled,
+.btn-hbrs[disabled],
+fieldset[disabled] .btn-hbrs,
+.btn-hbrs.disabled:hover,
+.btn-hbrs[disabled]:hover,
+fieldset[disabled] .btn-hbrs:hover,
+.btn-hbrs.disabled:focus,
+.btn-hbrs[disabled]:focus,
+fieldset[disabled] .btn-hbrs:focus,
+.btn-hbrs.disabled:active,
+.btn-hbrs[disabled]:active,
+fieldset[disabled] .btn-hbrs:active,
+.btn-hbrs.disabled.active,
+.btn-hbrs[disabled].active,
+fieldset[disabled] .btn-hbrs.active {
+    background-color: #009EE0;
+    border-color: #009EE0;
+}
+
+.btn-hbrs .badge {
+    color: #009EE0;
+    background-color: #ffffff;
+}

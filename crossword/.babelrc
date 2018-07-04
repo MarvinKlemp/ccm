@@ -1,0 +1,10 @@
+{
+  "env": {
+    "production": {
+      "presets": ["flow"]
+    },
+    "test": {
+      "presets": ["es2015"]
+    }
+  }
+}

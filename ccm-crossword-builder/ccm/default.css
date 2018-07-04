@@ -1,0 +1,18 @@
+div {
+    font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+}
+
+.word, .question, .btn {
+    margin: 5px;
+}
+
+#result {
+    margin-top: 15px;
+}
+
+code {
+    background-color: #eee;
+    border-radius: 3px;
+    font-family: courier, monospace;
+    padding: 0 3px;
+}

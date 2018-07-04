@@ -1,0 +1,32 @@
+{
+  "name": "ccm-composition",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "./node_modules/.bin/http-server ./ccm",
+    "server": "forever start -s ./node_modules/.bin/http-server ./ccm -s",
+    "test": "npm run server & (wdio wdio.conf.js; wdio_ret=$?; forever stopall; exit $wdio_ret)"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "~6.26.3",
+    "babel-jest": "~23.0.1",
+    "babel-polyfill": "~6.26.0",
+    "eslint": "~5.0.0",
+    "eslint-config-airbnb-base": "~13.0.0",
+    "eslint-plugin-import": "~2.12.0",
+    "forever": "~0.15.3",
+    "http-server": "~0.11.0",
+    "jest": "~23.0.0",
+    "wdio-webcomponents": "^1.1.0",
+    "babel-preset-env": "~1.7.0",
+    "babel-register": "~6.26.0",
+    "chai": "~4.1.2",
+    "wdio-cucumber-framework": "~2.1.0",
+    "wdio-phantomjs-service": "~0.2.2",
+    "wdio-selenium-standalone-service": "~0.0.9",
+    "wdio-spec-reporter": "~0.1.2",
+    "webdriverio": "4.13.0"
+  }
+}

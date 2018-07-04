@@ -1,0 +1,15 @@
+.margin-bot {
+    margin-bottom: 8px;
+}
+
+.segment {
+    border-bottom: 0.3em solid #009ee0;
+}
+
+.correct {
+    color: green;
+}
+
+.false {
+    color: red;
+}
