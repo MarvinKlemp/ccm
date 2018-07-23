@@ -6,7 +6,7 @@
     config: {
       "N": 100,
       "ccm_crossword_view": ["ccm.component", "https://marvinklemp.github.io/ccm-crossword/ccm/ccm.crossword.js"],
-      "css": [ "ccm.load", "/default.css", "https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"],
+      "css": [ "ccm.load", "https://marvinklemp.github.io/ccm-crossword-builder/ccm/default.css", "https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"],
       "crossword": [ "ccm.module", "https://marvinklemp.github.io/crossword/lib/bundle.js" ],
       "html": {
         "main": {
