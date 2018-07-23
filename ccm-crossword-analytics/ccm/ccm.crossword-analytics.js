@@ -3,7 +3,7 @@
     name: 'crossword-analytics',
     ccm: 'https://ccmjs.github.io/ccm/ccm.js',
     config: {
-      css: [ "ccm.load", "/default.css", "https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"],
+      css: [ "ccm.load", "https://marvinklemp.github.io/ccm-crossword-analytics/ccm/default.css", "https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"],
       html: {
         "main": {
           "tag": "div",
